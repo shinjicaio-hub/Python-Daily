@@ -1,0 +1,5 @@
+print('Antecessor e sucessor')
+valor = int(input('Digite um valor: '))
+ant = (valor - 1)
+suc = (valor + 1)
+print(f'O antecessor de {valor} é {ant}, e o sucessor tem o valor de {suc}.')
