@@ -1,2 +1,2 @@
 # Python-Daily
-Atividade didática para inserimento de minhas atividades práticas de Python.
+Atividade didática para inserção de minhas atividades práticas de Python.
